@@ -1,0 +1,34 @@
+@import "tailwindcss";
+
+@theme {
+    --color-primary: #84cc16;
+    /* Lime 500 equivalent */
+    --color-secondary: #0f291e;
+    /* Deep green bg */
+    --color-surface: #1a3528;
+    /* Slightly lighter green for cards */
+    --font-sans: "Inter", system-ui, sans-serif;
+}
+
+:root {
+    font-family: var(--font-sans);
+    line-height: 1.5;
+    font-weight: 400;
+
+    color-scheme: dark;
+    color: rgba(255, 255, 255, 0.9);
+    background-color: var(--color-secondary);
+
+    font-synthesis: none;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+    background-color: var(--color-secondary);
+    color: white;
+}
