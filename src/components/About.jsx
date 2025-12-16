@@ -58,7 +58,7 @@ const About = () => {
                             <img
                                 src="/images/about_interior_1765884311402.png"
                                 alt="Restaurant Interior"
-                                className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
+                                className="w-full h-full object-cover transition-transform duration-700 scale-106 group-hover:scale-110"
                             />
                             <div className="absolute inset-0 bg-linear-to-t from-secondary to-transparent opacity-60"></div>
                         </div>
