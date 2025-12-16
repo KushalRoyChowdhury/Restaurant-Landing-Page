@@ -1,8 +1,6 @@
 # Lumière - Radiant Dining Experience
 ### A Premium Landing Page & UI Design Showcase
 
-![Lumière Banner](./public/images/hero_background_1765884295452.png)
-
 ## 🎨 Project Overview
 
 **Lumière** is a high-fidelity concept landing page built to demonstrate advanced **UI Design** and **Frontend Architecture** skills. 
@@ -17,7 +15,7 @@ This repository serves as a portfolio piece showcasing:
 
 ## 🛠️ Technology Stack
 
-- **Framework**: [React 18](https://react.dev/) + [Vite](https://vitejs.dev/)
+- **Framework**: [React 19](https://react.dev/) + [Vite](https://vitejs.dev/)
 - **Styling**: [Tailwind CSS v4](https://tailwindcss.com/) (using CSS variables and `@theme`)
 - **Animations**: [Framer Motion](https://www.framer.com/motion/)
 - **Icons**: Custom SVG implementation & Line Awesome
@@ -45,7 +43,7 @@ To run this project locally:
 
 1.  **Clone the repository**
     ```bash
-    git clone https://github.com/yourusername/lumiere-landing.git
+    git clone https://github.com/KushalRoyChowdhury/Restaurant-Landing-Page
     ```
 
 2.  **Install Dependencies**
